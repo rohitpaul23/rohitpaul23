@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohitpaul23
-- 👀 I’m interested in ... Data Analysis 
-- 🌱 I’m currently learning ... Image Processing and Text mining
+- 👀 I’m interested in ... Data Science
+- 🌱 I’m currently learning ... Natural Language Processing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... rohitpaul97@gmail.com
 
